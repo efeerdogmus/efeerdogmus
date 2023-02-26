@@ -1,4 +1,4 @@
-### Student at Bilkent University
+### CS Student at Bilkent University
 
 <!--
 **efeerdogmus/efeerdogmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
